@@ -1,3 +1,4 @@
 ABI RESOLUSI
 - Selesai dalam mengerjakan Dicoding Pengembangan Machine Learning
 - Selesai dalam semua tugas
+- Membuat form diskusi
