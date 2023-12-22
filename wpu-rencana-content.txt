@@ -1,0 +1,5 @@
+RENCANA KONTEN
+
+- Interview 
+- Menyelesaikan project pandas, numpy, matplotlib
+- Menyukseskan acara asrama
