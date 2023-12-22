@@ -4,3 +4,4 @@ RENCANA KONTEN
 - Menyelesaikan project pandas, numpy, matplotlib
 * Analyze AirBnB using pandas, tensorflow
 - Menyukseskan acara asrama
+* Target materi
