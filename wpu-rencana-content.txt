@@ -2,5 +2,5 @@ RENCANA KONTEN
 
 - Interview 
 - Menyelesaikan project pandas, numpy, matplotlib
-* Analyze AirBnB 
+* Analyze AirBnB using pandas, tensorflow
 - Menyukseskan acara asrama
